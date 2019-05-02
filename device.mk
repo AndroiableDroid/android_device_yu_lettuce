@@ -76,6 +76,8 @@ PRODUCT_COPY_FILES += \
 # Dalvik
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 
+DISABLE_EAP_PROXY := true
+
 # Display
 PRODUCT_PACKAGES += \
     copybit.msm8916 \

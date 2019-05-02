@@ -234,5 +234,14 @@ WIFI_DRIVER_FW_PATH_AP := "ap"
 WIFI_DRIVER_FW_PATH_STA := "sta"
 WPA_SUPPLICANT_VERSION := VER_0_8_X
 
+# HALs
+TARGET_QCOM_AUDIO_VARIANT := caf-msm8916
+TARGET_QCOM_MEDIA_VARIANT := caf-msm8916
+TARGET_QCOM_DISPLAY_VARIANT :=caf-msm8916
+PRODUCT_SOONG_NAMESPACES += \
+    hardware/qcom/display-$(TARGET_QCOM_DISPLAY_VARIANT) \
+    hardware/qcom/audio-$(TARGET_QCOM_AUDIO_VARIANT) \
+    hardware/qcom/media-$(TARGET_QCOM_MEDIA_VARIANT)
+
 # Inherit from proprietary files
 include vendor/yu/lettuce/BoardConfigVendor.mk
