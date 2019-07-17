@@ -178,6 +178,21 @@ vendor/lib64/vendor.qti.hardware.data.qmi@1.0.so|b1c83ea1046e5e356e0b0a74b99d7a3
 vendor/lib64/vendor.qti.data.factory@1.0.so|648517a078dcc8a3810f10fc977ca38db509aa91
 vendor/lib64/vendor.qti.ims.rcsconfig@1.0.so|cbc75b554051298020506d85427a1aa70346fbd5
 vendor/lib64/vendor.qti.latency@2.0.so|15e50ce40e210993343406947dd2c959920f40c8
+-vendor/lib64/com.quicinc.cne.api@1.0.so|2aae2b09112de601de10b95b8c22ec5c2a1007f5
+-vendor/lib64/com.quicinc.cne.api@1.1.so|ed69d020ba913f5f7845abb5bb30fc5e0ccb782c
+-vendor/lib64/com.quicinc.cne.constants@1.0.so|9d795f365368f2384413b9796b35eef8edd3a595
+-vendor/lib64/com.quicinc.cne.constants@2.0.so|aa3692a9b08523dfd2495856a233e820fa3bfa01
+-vendor/lib64/com.quicinc.cne.constants@2.1.so|41cab788fd2c17bce5619771431248f44317caea
+-vendor/lib64/com.quicinc.cne.server@2.0.so|403dee79f2adf024a44947c5131c00e119db84e7
+-vendor/lib64/com.quicinc.cne.server@2.1.so|ed78619bc3a4b54c57183c943ce2147c7aa58920
+-vendor/lib64/com.quicinc.cne.server@2.2.so|3bb958c5cba5d448cfb2f52f5af31779f91fe4c5
+vendor/lib64/libcne.so|249e8cf3bd9f8e9dce7090a6850fc1d79acc7f36
+vendor/lib64/libcneapiclient.so|9e121b96ce15e33aaf9318b7b93eaa49a644b7cf
+vendor/lib64/libcneoplookup.so|86c694067e735b86efa04871fde8a9a7a81161d8
+vendor/lib64/libcneqmiutils.so|cf5b5620754c28002d081d795e89c1aa50b96032
+vendor/lib64/libwms.so|57d9f33071f4ae42ac77c98fb82f4e1fe8ac4754
+vendor/lib64/libwqe.so|47afecb9615f1dcad01e2d36f47a08229f5c43aa
+vendor/lib64/libxml.so|dba175d291e1adc004bf1463db091cde95a0d92d
 framework/vendor.qti.data.factory-V1.0-java.jar|23a060c1197f21f4f3b0f77485d8ee387d740e5d
 framework/vendor.qti.hardware.data.qmi-V1.0-java.jar|94c3e0efe3bc51358fe9145ed1ff0708c262380d
 
